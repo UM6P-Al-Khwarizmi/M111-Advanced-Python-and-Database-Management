@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+qfm_env/
 *.py[cod]
 *$py.class
 
